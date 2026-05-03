@@ -7,7 +7,7 @@ Images are collected from both controlled/uniform and uncontrolled background co
 ## Data Sources
 
 - EYEDOL/PlantVillage dataset - images with extended captions 
-- Irish Potato Leaf Imagery dataset - 20,000K images from each class healthy, early blight and late blight
+- Irish Potato Leaf Imagery dataset - 20K images from each class healthy, early blight and late blight
 
 ## Annotation Format
 
